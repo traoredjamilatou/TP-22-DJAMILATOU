@@ -237,7 +237,8 @@ section{
 }
 .E{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
+    margin-bottom: 5rem;
 }
 .E p{
     font-size: 1.7rem;
